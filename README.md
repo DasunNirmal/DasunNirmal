@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasunnirmal&label=Profile%20views&color=0e75b6&style=flat" alt="dasunnirmal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasunnirmal" alt="dasunnirmal" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)"><img src="https://github-profile-trophy.vercel.app/?username=dasunnirmal" alt="dasunnirmal" /></a> </p>
 
 - 📫 How to reach me **dasun200301@gmail.com**
 
